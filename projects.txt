@@ -1,5 +1,9 @@
-Upcoming Project Ideas:
+Upcoming Projects:
 
 Battleship 
 More card games
-AI
+FlappyBird
+TicTacToe
+Snake
+Tetris
+AI Projets
