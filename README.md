@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ascyii
+- 👋 Hi, I’m Jonas
 - 👀 I’m interested in python, rust, math, phyiscs and logic
 - 🌱 I’m currently learning how to think precisely
 - 📫 Discord: Ascyii#5565
