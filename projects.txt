@@ -1,7 +1,0 @@
-Battleship 
-More card games
-FlappyBird
-TicTacToe
-Snake
-Tetris
-AI Projets
