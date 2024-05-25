@@ -2,7 +2,7 @@
 
 📫 Discord: ascyii
 
-⏳ Working: django
+🌤 Project: django
 
 🎶 Music: piano
 
