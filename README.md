@@ -1,4 +1,4 @@
-# Hi, I’m Jonas 👋
+# Hey, I’m Jonas 👋
 
 ![](https://skillicons.dev/icons?i=python)
 
